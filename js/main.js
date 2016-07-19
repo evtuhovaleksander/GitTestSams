@@ -3,6 +3,7 @@ var checkTime;
 
 //Initialize function
 var init = function () {
+	
 	// TODO:: Do your initialization job
 	console.log("init() called");
 
@@ -49,6 +50,14 @@ function screenfunk() {
     
 }
 
+
+
+
+function colorfunc() {
+	$("#text3").css("color","#48ff00");
+	$("#text2").css("color","#48ff00");  
+	$("#text1").css("color","#48ff00");  
+}
 
 function checkTime(i) {
 	if (i < 10) {
