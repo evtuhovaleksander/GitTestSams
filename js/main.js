@@ -56,7 +56,14 @@ function screenfunk() {
 function colorfunc() {
 	$("#text3").css("color","#48ff00");
 	$("#text2").css("color","#48ff00");  
-	$("#text1").css("color","#48ff00");  
+	
+	
+	
+	
+	
+	
+	
+	
 }
 
 function checkTime(i) {
