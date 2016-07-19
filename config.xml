@@ -8,8 +8,5 @@
     <icon src="icon.png"/>
     <name>BasicApplication</name>
     <tizen:privilege name="http://tizen.org/privilege/internet"/>
-    <tizen:privilege name="http://tizen.org/privilege/download"/>
-    <tizen:privilege name="http://tizen.org/privilege/volume.set"/>
-    <tizen:privilege name="http://tizen.org/privilege/websetting"/>
     <tizen:profile name="mobile"/>
 </widget>
