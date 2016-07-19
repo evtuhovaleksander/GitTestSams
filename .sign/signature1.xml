@@ -8,7 +8,7 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>vKpg+yPFgtNwn7wn/iXUbf/enjFDyiJ6w/NchlD7Wiw=</DigestValue>
+<DigestValue>LGRRymKTXphqqHf4ywSdDL4U2tJ98s9hXmFzRbS685c=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -28,7 +28,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>+kyJ3rDKz5vVbw5Nvn1XFJZJQ7Ez0IloBfTrO1RDsjg=</DigestValue>
+<DigestValue>h+YFkQ2u709Y80Z3sdV4NrrnEwuUOoUWdbAFGCKeM60=</DigestValue>
 </Reference>
 <Reference URI="js%2Fjquery-2.0.0.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -36,7 +36,7 @@
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ur7kvZ4jrUufCYCQFtdDRV1u5jXfTDHUL9OOJ9EdfCI=</DigestValue>
+<DigestValue>iJDVCQTNroem6feoUEq6vgQ++T4NA2eIZNqN0kb/Iug=</DigestValue>
 </Reference>
 <Reference URI="lib%2Fjquery.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -799,11 +799,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-Rg0BytpqG+a04+faqecqdR73+Vv/cE1q4NtuBR1iWbapwfUM55ITuxuzyhU02UHlQhQ4zXkaJ/NJ
-SJf6ywtAZqPgFRxJFgl96WT6vG9BpZPxbmjxycDq/gJqpugG7hLrrKHayZqoXZUv9BwKllPfrBBt
-fsv9F2OeyOFBFFFvQf4AekBplA8tyhk04XefhftauAqJ0QPLO+5Vhy11gJ55DwKTV+DZMXzFDIga
-Fvjga4cH9QTAj4ocgSKI6qfmkfSQTEJC8V8Vms9waqBk5y2C5WsN3OWDsoLp3CGVj+zLRMzD6LQa
-bniIxg4Zu7K0TcAhiCLxFoPlMf+ucAg7MWoL9g==
+bqEjqt/fT2dwVD2LwkX59hADfjlL3rbwJ6Rje9QSwjuLhK8d4PPFhSzmRLRcmp6Qmd5PTvkdUeAp
+7b6StottIsN/0DEJAjwbVMakaBENnoi1rGIZq1lJEadE6EOxjS4jnLEbldUuX8ftDMKxyKHWFdO/
+MxW0+W14PviryyGRCOTUl36mX3+nh1MRxTIuAIPntSJWW8OQoaFRMWIcgX82q1dXOMEAbnxqZI+p
+h8ovuZEuX0HSE16Lb9ncvzNScv7DGjiUHKl0blqsKJvTdLDmMm4GJ6DVPM3KAEak83v8WH3uO7H0
+oowPTEYmbACvyOZcZMafc9bdM72oj7GuEER5Sg==
 </SignatureValue>
 <KeyInfo>
 <X509Data>

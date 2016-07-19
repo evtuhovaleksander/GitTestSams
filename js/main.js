@@ -50,20 +50,58 @@ function screenfunk() {
     
 }
 
+function printfunk() {
+var canvas=document.getElementById("draw")
+var x=canvas.getContext("2d");
+x.fillText("Теперь Вы можете отображать", 15, 40);
+x.font = 'italic 30pt Calibri';
+x.fillStyle="red";
+x.fillText("произвольный текст", 100, 70);
+x.fillStyle="blue";
+x.font = 'italic 15pt Calibri';
+x.fillText("в элементе canvas.", 60, 120);
+}
 
-
+function boardfunk() {
+	var canvas=document.getElementById("draw2")
+	var x=canvas.getContext("2d");
+	
+	
+	var i;
+	var j;
+	
+	
+	x.fillStyle="white";
+	  x.fillRect(0,0,320,320)
+	
+	
+	for (i = 0; i < 320; i+=80) {
+		for (j = 0; j < 320; j+=80) {
+			  var xx=i;
+			  var yy=j;
+			  x.fillStyle="black";
+			  x.fillRect(xx,yy,40,40)
+			
+		}}		  
+		
+	
+	for (i = 40; i < 320; i+=80) {
+		for (j = 40; j < 320; j+=80) {
+			  var xx=i;
+			  var yy=j;
+			  x.fillStyle="black";
+			  x.fillRect(xx,yy,40,40)
+			
+		}}	
+	
+	
+	
+	}
 
 function colorfunc() {
 	$("#text3").css("color","#48ff00");
 	$("#text2").css("color","#48ff00");  
-	
-	
-	
-	
-	
-	
-	
-	
+	//$("#text1").animate(backgroundColor:"red", 300);
 }
 
 function checkTime(i) {
